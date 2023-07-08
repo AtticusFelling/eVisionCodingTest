@@ -1,0 +1,15 @@
+C:\Code\AtticusFelling_eVisionCodingTest\bin\Debug\net6.0\AtticusFelling_eVisionCodingTest.exe
+C:\Code\AtticusFelling_eVisionCodingTest\bin\Debug\net6.0\AtticusFelling_eVisionCodingTest.deps.json
+C:\Code\AtticusFelling_eVisionCodingTest\bin\Debug\net6.0\AtticusFelling_eVisionCodingTest.runtimeconfig.json
+C:\Code\AtticusFelling_eVisionCodingTest\bin\Debug\net6.0\AtticusFelling_eVisionCodingTest.dll
+C:\Code\AtticusFelling_eVisionCodingTest\bin\Debug\net6.0\AtticusFelling_eVisionCodingTest.pdb
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.csproj.AssemblyReference.cache
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.AssemblyInfoInputs.cache
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.AssemblyInfo.cs
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.csproj.CoreCompileInputs.cache
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.dll
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\refint\AtticusFelling_eVisionCodingTest.dll
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.pdb
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\AtticusFelling_eVisionCodingTest.genruntimeconfig.cache
+C:\Code\AtticusFelling_eVisionCodingTest\obj\Debug\net6.0\ref\AtticusFelling_eVisionCodingTest.dll
